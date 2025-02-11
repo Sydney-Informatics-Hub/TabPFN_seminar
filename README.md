@@ -12,6 +12,7 @@ This repository includes the following Jupyter notebooks to help you get started
 -   **TabPFN_Intro.ipynb**: Basic usage for classification and regression tasks. This notebook will guide you through the fundamental steps of applying TabPFN to your own tabular datasets. 
 -   **TabPFN_UncertaintyEval.ipynb**: Testing the accuracy of predictive probabilities and quantiles. Learn how to evaluate the uncertainty estimates provided by TabPFN, crucial for risk assessment and decision-making.
 -   **TabPFN_Insights.ipynb**: Explain model predictions with SHAP (Shapley Additive Explanations) and Feature Selection. Discover how to interpret TabPFN's predictions and gain insights into the most important features driving its decisions.
+- **TabPFGen.ipynb**: Generate high-quality synthetic tabular data for regression and classification using energy modeling and TabPFN.
 
 To use these notebooks, you can use Google Colaboratory (Colab) which provides a free cloud-based environment for running Python code, including Jupyter notebooks.
 
